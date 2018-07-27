@@ -1,0 +1,5 @@
+{
+    "key": "yourmerakiapikey",
+    "org_id": "yourorganizationid",
+    "url": "https://api.meraki.com/api/v0"
+}
